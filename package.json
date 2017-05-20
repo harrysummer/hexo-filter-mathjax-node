@@ -1,0 +1,10 @@
+{
+  "name": "hexo-filter-mathjax-node",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "deasync": "^0.1.9",
+    "mathjax-node": "^1.0.1"
+  }
+}
